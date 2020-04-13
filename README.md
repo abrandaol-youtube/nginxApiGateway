@@ -13,3 +13,5 @@ http://127.0.0.1/depth
 http://127.0.0.1/ticker
 http://127.0.0.1/btc/brl
 ```
+
+![NGNIX](https://www.nginx.com/wp-content/uploads/2018/08/API-gateway-gRPC-sample-topology.png)
